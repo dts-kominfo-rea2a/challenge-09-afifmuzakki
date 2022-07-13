@@ -1,4 +1,6 @@
 .App {
   text-align: center;
-  display: flex;
+  display: flexbox;
+  font-family: Impact;
+  background-color: #e8a0a0;
 }
